@@ -1,7 +1,8 @@
 # KanthRamisetty
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KanthRamisetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrakanthramisetty10@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
+kanth-ramisetty-0b8b12244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrakanthramisetty10@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
